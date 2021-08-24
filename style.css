@@ -1,0 +1,138 @@
+/* Body */
+body{
+    overflow-x: hidden;
+    box-sizing: border-box;
+    margin: 0;
+  padding: 0;  
+background-color: #e6e6e6;
+}
+/* Slider */
+.carousel-item img {
+  width: 100%;
+    height: 100%
+}
+.carousel-control-prev,
+.carousel-control-next{
+  width: 40px;
+  height: 45px;
+  background-color: white;
+  color: black;
+  opacity: 1;
+  top: calc(50% - 20px);
+}
+.carousel-control-prev:focus,
+.carousel-control-next:focus{
+  color: black;
+}
+.carousel-control-prev:hover,
+.carousel-control-next:hover{
+  background-color: rgb(255, 109, 0);
+}
+.carousel-control-prev{
+  left: 0px;
+}
+.carousel-control-next{
+  right: 0px;
+}
+/* Container */
+.cont-1{
+margin: 0 auto;}
+
+.shdw{
+box-shadow: .125rem -.125rem .25rem rgba(0,0,0,.075);
+border-top-left-radius: 8px;
+border-top-right-radius: 8px;
+}
+/* Text Font Size */
+.t-1{
+font-size: 14px;
+}
+/* List Content */
+ul.dashed {
+list-style-type: none;
+margin-left: -30px;
+}
+ul.dashed > li {
+text-indent: -5px;
+}
+ul.dashed > li:before {
+content: "-";
+color: #0275d8;
+text-indent: -5px;
+}
+ul.dashed > li >a >b{
+color: black;
+}
+ul.dashed > li >a >b:hover{
+color: rgb(255, 109, 0);
+}
+.blog-button:hover{
+color: rgb(255, 109, 0);
+}
+.ic-1{
+font-size: 15px;
+}
+.ic-2{
+font-size: 40px;
+}
+/* Buttons Important */
+.imp-button{
+color: #4285F4;
+}
+.imp-button:hover{
+color: rgb(255, 109, 0);
+}
+.t-b{
+background-color: #085e8f;
+color: white;
+}
+.navbar{
+padding-bottom: 0;
+}
+/* Media Query */
+@media (max-width: 576px) { 
+    .al-center{
+    margin-left: 20%;
+    }
+    .w-control{
+    width: 70%;
+    margin-left: 18%;
+    text-align: center;
+    justify-content: space-around;
+    }
+    .color-width-control{
+      width: 100vw;
+      background-color: red;
+    }
+}
+@media (min-width:768px){
+    .margin-c{
+    margin:0 auto;
+    }
+}
+@media (max-width:768px){
+    .d-f{
+    display: flex;
+    justify-content: center;
+    }
+    
+    .btncontrol{
+    display: none;
+    }
+    .d-p{
+    margin-top: 15px;
+    }
+    .text-control{
+    text-align: center;
+    }
+    .j-center{
+    align-items: center;
+    }
+}
+/* Image */
+.heading-control{
+  margin-bottom: 0;
+  margin-top: 0;
+  line-height: 0.8;
+}
+
