@@ -1,4 +1,4 @@
-**Tout-Sous_Template**
+**Tout-Sous-Template**
 
 This is Bootstrap (Version 4) Template. There is a PSD avaialable for it in the Markete. You can download this Template and use it for the purpose of learning and 
 practicing Bootstrap.
