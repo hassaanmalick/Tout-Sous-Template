@@ -13,6 +13,6 @@ practicing Bootstrap.
 
 - 📫 How to reach me: hassaanmalick2001@gmail.com
 
-**NeedPrayers**
+**Need Prayers**
 
 **JazakAllah**
