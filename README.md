@@ -5,13 +5,13 @@ practicing Bootstrap.
 
 **AboutMe**
 
-🔭 I’m currently working in Software Company here in Lahore as React Developer.
+- 🔭 I’m currently working in Software Company here in Lahore as React Developer.
 
-🌱 I’m currently learning Node.Js.
+- 🌱 I’m currently learning Node.Js.
 
-💬 Ask me about Web Development using JQuery/React/PHP/MySql etc.
+- 💬 Ask me about Web Development using JQuery/React/PHP/MySql etc.
 
-📫 How to reach me: hassaanmalick2001@gmail.com
+- 📫 How to reach me: hassaanmalick2001@gmail.com
 
 **NeedPrayers**
 
